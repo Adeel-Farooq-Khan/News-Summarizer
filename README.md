@@ -33,15 +33,19 @@ The AI-Powered News Summarizer is a Python-based application designed to fetch, 
    ```
 
 
-3. Run the Application:
+3. Install the Required Libraries:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run the Application:
 
    ```bash
    python main.py
    ```
-
 ### Requirements
 
-- Python 3.12
+- Python 3.12.4
 - Tkinter (Usually included with Python)
 - newspaper3k
 - TextBlob
