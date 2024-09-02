@@ -71,6 +71,6 @@ Contributions are welcome! Please fork this repository, create a new branch, and
 
 For any questions or issues, please feel free to reach out:
 
-- Email: [your-email@example.com](mailto:adeelfarooq417@gmail.com)
-- GitHub: [your-username](https://github.com/Adeel-Farooq-Khan)
-- LinkedIn: [Your Name](https://linkedin.com/in/adeel-farooq-khan)
+- Email: [adeelfarooq417@gmail.com](mailto:adeelfarooq417@gmail.com)
+- GitHub: [Adeel-Farooq-Khan](https://github.com/Adeel-Farooq-Khan)
+- LinkedIn: [adeel-farooq-khan](https://linkedin.com/in/adeel-farooq-khan)
