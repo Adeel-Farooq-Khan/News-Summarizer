@@ -1,0 +1,4 @@
+Python 3.12.4
+Tkinter (Usually included with Python)
+newspaper3k
+TextBlob
